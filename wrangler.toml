@@ -1,0 +1,12 @@
+name = "bundler-api"
+main = "src/index.ts"
+compatibility_date = "2026-09-26"
+
+[vars]
+SUPABASE_URL = ""
+SUPABASE_SERVICE_ROLE_KEY = ""
+HELIUS_API_KEY = ""
+COINSNAP_SECRET = ""
+
+[ai]
+binding = "AI"
